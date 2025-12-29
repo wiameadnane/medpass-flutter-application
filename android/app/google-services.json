@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "883135759640",
+    "project_id": "medpass3",
+    "storage_bucket": "medpass3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883135759640:android:36e517fcab4261d5a74a6d",
+        "android_client_info": {
+          "package_name": "com.example.projet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC6ocrLwMc2eektOzvmeUBII4-OCfGenI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
