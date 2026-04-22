@@ -1,4 +1,4 @@
-# MEDPASS — Flutter Project
+# MEDPASS, Flutter Project
 
 "Med‑Pass — Your Medical Passport in your pocket."
 
