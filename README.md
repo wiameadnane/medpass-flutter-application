@@ -1,6 +1,6 @@
-# MEDPASS, Flutter Project
+# Med-Pass: Mobile Medical Records Management System with OCR Integration and Translation
 
-"Med‑Pass — Your Medical Passport in your pocket."
+"Your Medical Passport in your pocket."
 
 This repository contains the Flutter source for the Med‑Pass mobile application. Below is a repo-accurate README that includes a Design section where you can add the Figma link and guidance for contributors on how to reference Figma frames in PRs.
 
